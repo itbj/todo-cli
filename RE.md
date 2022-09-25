@@ -1,5 +1,5 @@
 ###[Rust 语言入门教程：从实战 To-Do App 开始](https://chinese.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/)  
-###[]()  
+###[rust 面向对象之Struct、impl、trait关键字使用](https://blog.csdn.net/starzhou/article/details/93367061)  
 ###[]()  
 ###[]()  
 ###[]()  
